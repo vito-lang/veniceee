@@ -1,0 +1,127 @@
+
+h1{
+    background-color:#002638;
+    color: white;
+    margin-top: 15px;
+    font-family: 'Segoe UI', sans-serif;
+    display: inline-block;
+    padding-inline: 100px;
+    border-radius: 30px;            
+}    
+
+.imagen1{
+    transition:all 0.3s ease-in-out;
+}
+.imagen1:hover{
+    transform: scale(1.1);
+}
+.imagen2{
+    padding-inline: 30px;
+    transition: all 0.3s ease-in-out;
+}
+.imagen2:hover{
+    transform: scale(1.1);
+
+}
+.imagen3{
+    transition: all 0.3s ease-in-out;
+    position: relative;   
+}
+.imagen3:hover{
+    transform: scale(1.1);
+    
+}
+h4{
+    background-color:#002638;
+    color: white;
+    margin:0px;
+    font-family: 'Segoe UI', sans-serif;
+    display: inline-block;
+    padding-inline: 20px;
+    border-radius: 30px;  
+}
+body {
+    background-color:  #467a94;
+    color: white;
+    font-family: 'Segoe UI', sans-serif;
+     margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  nav {
+    background-color: #002638;
+    padding: 5px 0;
+  }
+  ul {
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    display: inline-block;
+    margin: 0 20px; 
+  }
+  nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px 40px;
+    margin:0 80px; 
+    display: inline-block;
+    transition:color 0.3s ease;
+  }
+  nav a:hover {
+    background-color: #467a94;
+  }
+  
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 20p;
+    transition: color 0.3s ease;
+    }
+  
+a:hover {
+    color: white;
+    background-color: #467a94;
+
+  }
+h2{
+    background-color:#002638;
+    color: white;
+    margin:0px;
+    font-family: 'Segoe UI', sans-serif;
+    display: inline-block;
+    padding-inline: 20px;
+    border-radius: 30px;
+}
+h3{
+    background-color:#002638;
+    color: white;
+    margin:0px;
+    font-family: 'Segoe UI', sans-serif;
+    display: inline-block;
+    padding-inline: 20px;
+    border-radius: 30px;  
+}
+footer{
+    background-color: #002638;
+    height: 90px;
+    text-align: center;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+    
